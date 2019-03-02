@@ -1,0 +1,4 @@
+TwitterSource.CONSUMER_KEY = KEY
+TwitterSource.CONSUMER_SECRET = KEY_SECRET
+TwitterSource.TOKEN = TOKEN
+TwitterSource.TOKEN_SECRET = TOKEN_SECRET
